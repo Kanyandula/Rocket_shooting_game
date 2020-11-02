@@ -1,0 +1,84 @@
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Editor.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Runtime.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\unity first person shooter game\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Editor.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Runtime.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Me\Desktop\first-person-shooter-game\source\Shoot Target\obj\Debug\Assembly-CSharp-firstpass.pdb
